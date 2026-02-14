@@ -133,6 +133,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -161,12 +163,14 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
