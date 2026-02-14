@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0050-powx-n) |
+| [0096-unique-binary-search-trees](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0326-power-of-three) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0045-jump-game-ii) |
+| [0096-unique-binary-search-trees](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0368-largest-divisible-subset) |
 ## Counting Sort
 |  |
@@ -111,4 +113,16 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1929-concatenation-of-array) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
