@@ -15,6 +15,7 @@
 | [0219-contains-duplicate-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0368-largest-divisible-subset) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0015-3sum](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0016-3sum-closest) |
+| [0283-move-zeroes](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
