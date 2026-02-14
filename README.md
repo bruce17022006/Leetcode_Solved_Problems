@@ -86,6 +86,7 @@
 | [0070-climbing-stairs](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0342-power-of-four) |
