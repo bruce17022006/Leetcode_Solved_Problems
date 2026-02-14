@@ -129,6 +129,7 @@
 | [0099-recover-binary-search-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
@@ -145,6 +146,7 @@
 | [0099-recover-binary-search-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -154,6 +156,7 @@
 | [0099-recover-binary-search-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -172,5 +175,6 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
