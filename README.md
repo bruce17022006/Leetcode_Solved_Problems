@@ -117,19 +117,23 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0099-recover-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0099-recover-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
