@@ -10,11 +10,13 @@
 | [0041-first-missing-positive](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0045-jump-game-ii) |
 | [0238-product-of-array-except-self](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0238-product-of-array-except-self) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0041-first-missing-positive) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -27,6 +29,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0016-3sum-closest) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,4 +76,8 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0045-jump-game-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
