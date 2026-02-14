@@ -72,6 +72,7 @@
 | [0326-power-of-three](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0342-power-of-four) |
 | [1323-maximum-69-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1323-maximum-69-number) |
+| [2469-convert-the-temperature](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2469-convert-the-temperature) |
 | [2591-distribute-money-to-maximum-children](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2591-distribute-money-to-maximum-children) |
 ## Greedy
 |  |
