@@ -36,12 +36,14 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0058-length-of-last-word) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0016-3sum-closest) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -174,6 +176,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
