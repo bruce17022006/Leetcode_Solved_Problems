@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0045-jump-game-ii) |
 | [0238-product-of-array-except-self](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0238-product-of-array-except-self) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
@@ -54,6 +55,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0045-jump-game-ii) |
 | [1323-maximum-69-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1323-maximum-69-number) |
 | [2591-distribute-money-to-maximum-children](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2591-distribute-money-to-maximum-children) |
 ## Bit Manipulation
@@ -67,4 +69,8 @@
 | [0231-power-of-two](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0342-power-of-four) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
