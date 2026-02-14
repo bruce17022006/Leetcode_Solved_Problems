@@ -196,4 +196,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
