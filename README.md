@@ -41,4 +41,12 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Math
+|  |
+| ------- |
+| [2591-distribute-money-to-maximum-children](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2591-distribute-money-to-maximum-children) |
+## Greedy
+|  |
+| ------- |
+| [2591-distribute-money-to-maximum-children](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2591-distribute-money-to-maximum-children) |
 <!---LeetCode Topics End-->
