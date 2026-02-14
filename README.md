@@ -18,6 +18,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1929-concatenation-of-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
