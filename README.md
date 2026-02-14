@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0041-first-missing-positive) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
