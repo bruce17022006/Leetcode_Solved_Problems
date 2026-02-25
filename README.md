@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0045-jump-game-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0219-contains-duplicate-ii) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0242-valid-anagram) |
@@ -226,4 +228,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
