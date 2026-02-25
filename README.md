@@ -18,6 +18,7 @@
 | [0238-product-of-array-except-self](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0368-largest-divisible-subset) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -33,6 +34,7 @@
 | [0219-contains-duplicate-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
@@ -59,6 +61,7 @@
 | [0217-contains-duplicate](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0368-largest-divisible-subset) |
 | [0977-squares-of-a-sorted-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -72,6 +75,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,6 +130,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
@@ -209,4 +214,16 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
