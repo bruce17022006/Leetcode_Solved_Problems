@@ -45,6 +45,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1980-find-unique-binary-string) |
 ## String
 |  |
@@ -55,6 +56,7 @@
 | [0242-valid-anagram](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0709-to-lower-case) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1980-find-unique-binary-string) |
 ## Two Pointers
 |  |
