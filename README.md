@@ -27,6 +27,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1672-richest-customer-wealth](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
@@ -266,4 +267,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0258-add-digits) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
