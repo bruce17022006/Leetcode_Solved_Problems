@@ -105,6 +105,7 @@
 | [0070-climbing-stairs](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0326-power-of-three) |
@@ -150,6 +151,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1929-concatenation-of-array) |
 ## Tree
 |  |
@@ -260,4 +262,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
