@@ -32,6 +32,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1550-three-consecutive-odds](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1672-richest-customer-wealth) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
@@ -282,4 +283,5 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1672-richest-customer-wealth) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
