@@ -39,6 +39,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2942-find-words-containing-character](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2974-minimum-number-game](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [2652-sum-multiples](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Greedy
 |  |
