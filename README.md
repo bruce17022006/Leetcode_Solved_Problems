@@ -35,6 +35,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1980-find-unique-binary-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0709-to-lower-case](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1980-find-unique-binary-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
