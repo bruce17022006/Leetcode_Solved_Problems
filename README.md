@@ -37,6 +37,7 @@
 | [1980-find-unique-binary-string](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1980-find-unique-binary-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2942-find-words-containing-character](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2942-find-words-containing-character) |
+| [2974-minimum-number-game](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0368-largest-divisible-subset](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0368-largest-divisible-subset) |
 | [0977-squares-of-a-sorted-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2974-minimum-number-game](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2974-minimum-number-game) |
 ## Tree
 |  |
 | ------- |
@@ -263,6 +266,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0347-top-k-frequent-elements) |
+| [2974-minimum-number-game](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
