@@ -37,6 +37,7 @@
 | [1929-concatenation-of-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1980-find-unique-binary-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/3024-type-of-triangle) |
@@ -139,6 +140,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2469-convert-the-temperature](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2469-convert-the-temperature) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2591-distribute-money-to-maximum-children](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2591-distribute-money-to-maximum-children) |
 | [2652-sum-multiples](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2769-find-the-maximum-achievable-number) |
