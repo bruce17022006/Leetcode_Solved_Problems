@@ -131,6 +131,7 @@
 | [0326-power-of-three](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0368-largest-divisible-subset) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1486-xor-operation-in-an-array) |
 | [2469-convert-the-temperature](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2469-convert-the-temperature) |
