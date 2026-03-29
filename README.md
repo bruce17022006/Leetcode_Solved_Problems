@@ -70,6 +70,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1980-find-unique-binary-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2942-find-words-containing-character](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
