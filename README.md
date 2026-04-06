@@ -16,6 +16,7 @@
 | [0045-jump-game-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0217-contains-duplicate) |
@@ -167,6 +168,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0342-power-of-four) |
