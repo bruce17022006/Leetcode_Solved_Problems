@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0169-majority-element) |
@@ -67,6 +68,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0125-valid-palindrome) |
@@ -125,6 +127,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
