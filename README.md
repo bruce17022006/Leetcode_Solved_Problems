@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0136-single-number) |
@@ -201,6 +202,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2974-minimum-number-game) |
@@ -331,6 +333,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0054-spiral-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
