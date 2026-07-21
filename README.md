@@ -15,6 +15,7 @@
 | [0041-first-missing-positive](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0136-single-number) |
@@ -167,6 +168,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0055-jump-game) |
 | [1323-maximum-69-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1323-maximum-69-number) |
 | [2591-distribute-money-to-maximum-children](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2591-distribute-money-to-maximum-children) |
 ## Bit Manipulation
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
