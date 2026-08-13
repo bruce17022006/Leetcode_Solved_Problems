@@ -26,6 +26,7 @@
 | [0238-product-of-array-except-self](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0368-largest-divisible-subset) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -194,6 +195,7 @@
 | [0070-climbing-stairs](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0368-largest-divisible-subset) |
 ## Counting Sort
 |  |
@@ -265,6 +267,7 @@
 | [0101-symmetric-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0322-coin-change](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0322-coin-change) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -341,4 +344,12 @@
 | [1672-richest-customer-wealth](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2965-find-missing-and-repeated-values](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2965-find-missing-and-repeated-values) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
