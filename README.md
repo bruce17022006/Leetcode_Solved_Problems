@@ -29,6 +29,7 @@
 | [0322-coin-change](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -197,6 +198,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0416-partition-equal-subset-sum) |
 ## Counting Sort
 |  |
 | ------- |
@@ -348,8 +350,13 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
