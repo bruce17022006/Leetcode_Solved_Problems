@@ -21,6 +21,7 @@
 | [0136-single-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0238-product-of-array-except-self) |
@@ -76,6 +77,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0709-to-lower-case) |
@@ -103,6 +105,7 @@
 | [0015-3sum](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0268-missing-number) |
@@ -171,6 +174,7 @@
 | [0011-container-with-most-water](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/0179-largest-number) |
 | [1323-maximum-69-number](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/1323-maximum-69-number) |
 | [2591-distribute-money-to-maximum-children](https://github.com/bruce17022006/Leetcode_Solved_Problems/tree/master/2591-distribute-money-to-maximum-children) |
 ## Bit Manipulation
